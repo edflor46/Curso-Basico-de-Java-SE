@@ -40,7 +40,34 @@ En Java definimos este método de la siguiente manera:
     </code>
 </p>
 
-**Resultado:**
+**Demo:**
 ![Hola_Mundo](https://res.cloudinary.com/dvhl6xkqf/image/upload/v1626045747/Academia-Java.-CDMX/Java-Basico-SE/Hola_Mundo_lswacs.png)
+
+### Variables
+
+Una variable es un espacio de memoria (RAM) que contiene un dato de tipo numérico, booleano, de texto u otros tipos de datos un poco más complejos.
+
+Las variables en Java se componen de un nombre único y un valor que puede cambiar a lo largo de la ejecución del programa. Al declarar las variables debemos definir el tipo de dato que vamos a usar y un punto y coma al final:
+
+<p>
+<code>public class Variables {public static void main(String[] args) {<br>
+// Declarar la variable speed de tipo int (números enteros)
+    int spped;
+
+    // Actualizar el contenido de la variable speed:
+    spped = 10; // si ya habías declarado la variable
+
+    // Declarar una variable y asignarle un valor al mismo tiempo:
+    int salary = 1000;
+
+    // Crear una variable de tipo String:
+    String eployeeName = "Eduardo Flores";
+  }
+}
+</code>
+</p>
+
+**Demo:**
+![Variables](https://res.cloudinary.com/dvhl6xkqf/image/upload/v1626047065/Academia-Java.-CDMX/Java-Basico-SE/Variables_oj8i4k.png)
 
 
