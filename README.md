@@ -203,3 +203,8 @@ La forma de programar condicionales es usando la sentencia **``IF``**
 
 **Demo:**
 ![IF](https://res.cloudinary.com/dvhl6xkqf/image/upload/v1626052400/Academia-Java.-CDMX/Java-Basico-SE/if_s13fpm.png)
+
+### Sentencia Switch
+La sentencia Switch nos ayuda a tomar decisiones con base en una o más condiciones
+
+![Switch](https://res.cloudinary.com/dvhl6xkqf/image/upload/v1626060268/Academia-Java.-CDMX/Java-Basico-SE/Switch_1_gsnhkv.png)
