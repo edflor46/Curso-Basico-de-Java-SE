@@ -145,6 +145,21 @@ Tipos de datos para números flotantes (con decimales):
 
 ![Data_Boolean_Char](https://res.cloudinary.com/dvhl6xkqf/image/upload/v1626049641/Academia-Java.-CDMX/Java-Basico-SE/CharBoolean_xmn9kk.png)
 
+### Operadores de Asignación, Decremento e Incremento
 
+**Operadores de asignación:**
 
+<code>+=: a += b es equivalente a a = a + b.
+-=: a -= b es equivalente a a = a - b.
+*=: a *= b es equivalente a a = a * b.
+/=: a /= b es equivalente a a = a / b.
+%=: a %= b es equivalente a a = a % b.</code>
+
+**Operadores de incremento:**
+
+<code>++: i++ es equivalente a i = i + 1.
+--: i-- es equivalente a i = i - 1.</code>
+
+**Demo:**
+![Operadors](https://res.cloudinary.com/dvhl6xkqf/image/upload/v1626050836/Academia-Java.-CDMX/Java-Basico-SE/Captura_de_pantalla_119_gtc8pw.png)
 
