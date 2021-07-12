@@ -274,3 +274,9 @@ Los arrays se definen en código de las siguientes maneras:
 ``TipoDato[] nombreVariable = new TipoDato[capacidad];``
 
 ![Array](https://res.cloudinary.com/dvhl6xkqf/image/upload/v1626062244/Academia-Java.-CDMX/Java-Basico-SE/Arrays_x9d3e8.png)
+
+### Ciclos For anidados
+
+Los ciclos FOR nos ayudan a ejecutar una parte de nuestro código todas las veces que sean necesarias hasta que una condición se cumpla, por ejemplo, que un número supere o iguale cierta cantidad.
+
+![For_Anidado](https://res.cloudinary.com/dvhl6xkqf/image/upload/v1626062589/Academia-Java.-CDMX/Java-Basico-SE/For_anidado_jusz5s.png)
