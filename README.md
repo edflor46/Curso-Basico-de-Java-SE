@@ -224,3 +224,17 @@ public int suma(inta, int b) {
 **Demo:**
 ![Functions](https://res.cloudinary.com/dvhl6xkqf/image/upload/v1626060723/Academia-Java.-CDMX/Java-Basico-SE/functions_aoax0l.png)
 
+### Bucle do While
+
+Los bucles (ciclos) nos ayudan a ejecutar una parte de nuestro código una cantidad de veces hasta que se cumpla alguna condición y podamos continuar con la ejecución de nuestro código.
+
+Existen diferentes bucles. Por ejemplo, el bucle do while:
+
+<p>
+    <code>do {
+  // instrucciones
+} while (condición);</code>
+</p>
+
+**Demo:**
+![DoWhile](https://res.cloudinary.com/dvhl6xkqf/image/upload/v1626061113/Academia-Java.-CDMX/Java-Basico-SE/DoWhile_eteywl.png)
