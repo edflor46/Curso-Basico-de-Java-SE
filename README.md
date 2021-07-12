@@ -265,3 +265,12 @@ for (int i = 1; i <= 10; i++) {<br>
 
 **Demo:**
 ![FOR](https://res.cloudinary.com/dvhl6xkqf/image/upload/v1626061975/Academia-Java.-CDMX/Java-Basico-SE/For_kp2kfk.png)
+
+### Arrays
+Los arreglos o arrays son objetos en los que podemos guardar más de una variable, una lista de elementos. Los arrays son de una sola dimensión, pero si guardamos arrays dentro de otros arrays podemos obtener arrays multidimensionales.
+
+Los arrays se definen en código de las siguientes maneras:
+
+``TipoDato[] nombreVariable = new TipoDato[capacidad];``
+
+![Array](https://res.cloudinary.com/dvhl6xkqf/image/upload/v1626062244/Academia-Java.-CDMX/Java-Basico-SE/Arrays_x9d3e8.png)
