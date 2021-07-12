@@ -138,5 +138,13 @@ Tipos de datos para números flotantes (con decimales):
 **Demo:**
 ![DataTypes](https://res.cloudinary.com/dvhl6xkqf/image/upload/v1626049241/Academia-Java.-CDMX/Java-Basico-SE/DataTypes_ekx7ez.png)
 
+### Tipos de datos char y boolean
+**char:** Ocupa 2 bytes y solo puede almacenar 1 dígito, debemos usar comillas simples en vez de comillas dobles.
+
+**boolean:** Son un tipo de dato lógico, solo aceptan los valores true y false. También ocupa 2 bytes y almacena únicamente 1 dígito.
+
+![Data_Boolean_Char](https://res.cloudinary.com/dvhl6xkqf/image/upload/v1626049641/Academia-Java.-CDMX/Java-Basico-SE/CharBoolean_xmn9kk.png)
+
+
 
 
