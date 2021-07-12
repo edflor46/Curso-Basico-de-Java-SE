@@ -190,3 +190,8 @@ Tipos de datos para números flotantes (con decimales):
 **Demo:**
 ![Operaciones_Mat](https://res.cloudinary.com/dvhl6xkqf/image/upload/v1626051689/Academia-Java.-CDMX/Java-Basico-SE/Operaciones_Mat_rxud6r.png)
 
+### Cast
+En la programación hay situaciones donde necesitamos cambiar el tipo de dato de nuestras variables, esto lo conocemos como Cast.
+
+**Demo:**
+![Cast](https://res.cloudinary.com/dvhl6xkqf/image/upload/v1626051973/Academia-Java.-CDMX/Java-Basico-SE/Cast_h5qp8w.png)
