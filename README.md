@@ -208,7 +208,7 @@ La forma de programar condicionales es usando la sentencia **``IF``**
 La sentencia Switch nos ayuda a tomar decisiones con base en una o más condiciones
 
 **Demo:**
-![Switch](https://res.cloudinary.com/dvhl6xkqf/image/upload/v1626060268/Academia-Java.-CDMX/Java-Basico-SE/Switch_1_gsnhkv.png)
+![Switch](https://res.cloudinary.com/dvhl6xkqf/image/upload/v1626061902/Academia-Java.-CDMX/Java-Basico-SE/Switch_1_vyooss.png)
 
 ### Funciones
 Las funciones nos ayudan a ejecutar código que dependiendo de las opciones que le enviemos, transformará y devolverá un cierto resultado. Gracias a las funciones podemos organizar, modularizar, reutilizar y evitar repetidos en nuestro código.
@@ -250,3 +250,18 @@ El Bucle While nos ayuda a ejecutar una parte del código mientras una condició
 
 **Demo:**
 ![While](https://res.cloudinary.com/dvhl6xkqf/image/upload/v1626061389/Academia-Java.-CDMX/Java-Basico-SE/While_smqtj4.png)
+
+### Bucle For
+
+El Ciclo For también nos ayuda a ejecutar una parte de nuestro código las veces que sean necesarias para que se cumpla una condición. De hecho, el ciclo FOR nos da muchas ayudas para lograr este resultado de la forma más fácil posible:
+
+<p>
+    <code>// En este ejemplo el mensaje de printSOS se<br>
+// ejecutará 10 veces:<br>
+for (int i = 1; i <= 10; i++) {<br>
+  printSOS();<br>
+}</code>
+</p>
+
+**Demo:**
+![FOR](https://res.cloudinary.com/dvhl6xkqf/image/upload/v1626061975/Academia-Java.-CDMX/Java-Basico-SE/For_kp2kfk.png)
