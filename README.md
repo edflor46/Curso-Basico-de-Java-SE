@@ -238,3 +238,15 @@ Existen diferentes bucles. Por ejemplo, el bucle do while:
 
 **Demo:**
 ![DoWhile](https://res.cloudinary.com/dvhl6xkqf/image/upload/v1626061113/Academia-Java.-CDMX/Java-Basico-SE/DoWhile_eteywl.png)
+
+### Bucle While
+El Bucle While nos ayuda a ejecutar una parte del código mientras una condición se cumpla.
+
+<p>
+   <code>while (isTurnOnLight) {
+  printSOS();
+}</code> 
+</p>
+
+**Demo:**
+![While](https://res.cloudinary.com/dvhl6xkqf/image/upload/v1626061389/Academia-Java.-CDMX/Java-Basico-SE/While_smqtj4.png)
