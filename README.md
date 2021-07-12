@@ -195,3 +195,11 @@ En la programación hay situaciones donde necesitamos cambiar el tipo de dato de
 
 **Demo:**
 ![Cast](https://res.cloudinary.com/dvhl6xkqf/image/upload/v1626051973/Academia-Java.-CDMX/Java-Basico-SE/Cast_h5qp8w.png)
+
+### Sentencia IF
+Los condicionales son la forma en que las computadoras toman decisiones, evaluaran si la condición para ejecutar una parte del código se cumple. Si el resultado de la operación es verdadero ejecutarán esta parte del código, en caso de que no, seguirán con las siguientes instrucciones.
+
+La forma de programar condicionales es usando la sentencia **``IF``**
+
+**Demo:**
+![IF](https://res.cloudinary.com/dvhl6xkqf/image/upload/v1626052400/Academia-Java.-CDMX/Java-Basico-SE/if_s13fpm.png)
