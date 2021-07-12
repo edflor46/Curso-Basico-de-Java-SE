@@ -70,4 +70,50 @@ Las variables en Java se componen de un nombre único y un valor que puede cambi
 **Demo:**
 ![Variables](https://res.cloudinary.com/dvhl6xkqf/image/upload/v1626047065/Academia-Java.-CDMX/Java-Basico-SE/Variables_oj8i4k.png)
 
+### Actualizar variables
+Java nos permite actualizar nuestras variables reutilizando los valores que tenían anteriormente, de esta forma evitamos errores o inconsistencias en nuestro código:
+
+<p><code>public class UpdatingVariables {
+    public static void main(String[] args) {<br>
+        int salary = 1000;
+
+        //Bono 200
+        salary += 200;
+        System.out.println(salary);
+
+        //Pension 50
+        salary -= 50;
+        System.out.println(salary);
+
+        //2 hrs extras 30 c/u
+        //comida: 45
+
+        salary = salary + (30*2) - 45;
+        System.out.println(salary);
+
+        //Actualizando cadenas de texto
+        String employeedName = "Eduardo Flores";
+        employeedName = employeedName + " Ramirez";
+        System.out.println(employeedName);
+
+        employeedName = "Luis " + employeedName;
+        System.out.println(employeedName);
+    }
+}</code></p>
+**Demo:**
+![Actualizacion_Variables](https://res.cloudinary.com/dvhl6xkqf/image/upload/v1626047690/Academia-Java.-CDMX/Java-Basico-SE/ActualizandoVariables_ptht8y.png)
+
+### Convención de Nombres
+Una convención de nombres es un patrón que deben seguir los nombres de las variables para que el código esté organizado, entendible y sin repetidos.
+
+**Java** es sensible a mayúsculas y minúsculas, este punto es clave al seguir una convención.
+
+- Las variables siempre deben comenzar con un simbolo de letra, $ o _.
+
+- No puedes usar el simbolo - en ninguna parte de la variable.
+
+- Las variables constantes son variables cuyo valor nunca va a cambiar, por lo que se deben escribir completamente en mayúsculas y usando el caracter _.
+
+**Demo:**
+![Naming_variables](https://res.cloudinary.com/dvhl6xkqf/image/upload/v1626048201/Academia-Java.-CDMX/Java-Basico-SE/NamingVariables_xn0lzh.png)
 
