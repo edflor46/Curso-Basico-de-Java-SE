@@ -207,4 +207,20 @@ La forma de programar condicionales es usando la sentencia **``IF``**
 ### Sentencia Switch
 La sentencia Switch nos ayuda a tomar decisiones con base en una o más condiciones
 
+**Demo:**
 ![Switch](https://res.cloudinary.com/dvhl6xkqf/image/upload/v1626060268/Academia-Java.-CDMX/Java-Basico-SE/Switch_1_gsnhkv.png)
+
+### Funciones
+Las funciones nos ayudan a ejecutar código que dependiendo de las opciones que le enviemos, transformará y devolverá un cierto resultado. Gracias a las funciones podemos organizar, modularizar, reutilizar y evitar repetidos en nuestro código.
+
+Todas nuestras funciones deben tener un nombre. Opcionalmente, pueden recibir argumentos y devolver un resultado. También debemos especificar el tipo de dato de nuestros argumentos y el resultado final de nuestra función.
+
+<p><code>
+public int suma(inta, int b) {
+  return a + b;
+}
+</code></p>
+
+**Demo:**
+![Functions](https://res.cloudinary.com/dvhl6xkqf/image/upload/v1626060723/Academia-Java.-CDMX/Java-Basico-SE/functions_aoax0l.png)
+
