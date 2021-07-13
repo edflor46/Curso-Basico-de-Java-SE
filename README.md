@@ -32,13 +32,12 @@ El método **main** es el punto de entrada de una aplicación en diferentes leng
 
 En Java definimos este método de la siguiente manera:
 
-<p>
+<pre>
     <code>
         public static void main (String[] args) {
   // acciones
-}
-    </code>
-</p>
+}</code>
+</pre>
 
 **Demo:**
 ![Hola_Mundo](https://res.cloudinary.com/dvhl6xkqf/image/upload/v1626045747/Academia-Java.-CDMX/Java-Basico-SE/Hola_Mundo_lswacs.png)
@@ -49,7 +48,7 @@ Una variable es un espacio de memoria (RAM) que contiene un dato de tipo numéri
 
 Las variables en Java se componen de un nombre único y un valor que puede cambiar a lo largo de la ejecución del programa. Al declarar las variables debemos definir el tipo de dato que vamos a usar y un punto y coma al final:
 
-<p>
+<pre>
 <code>public class Variables {public static void main(String[] args) {<br>
 // Declarar la variable speed de tipo int (números enteros)
     int spped;
@@ -63,9 +62,8 @@ Las variables en Java se componen de un nombre único y un valor que puede cambi
     // Crear una variable de tipo String:
     String eployeeName = "Eduardo Flores";
   }
-}
-</code>
-</p>
+}</code>
+</pre>
 
 **Demo:**
 ![Variables](https://res.cloudinary.com/dvhl6xkqf/image/upload/v1626047065/Academia-Java.-CDMX/Java-Basico-SE/Variables_oj8i4k.png)
@@ -73,8 +71,8 @@ Las variables en Java se componen de un nombre único y un valor que puede cambi
 ### Actualizar variables
 Java nos permite actualizar nuestras variables reutilizando los valores que tenían anteriormente, de esta forma evitamos errores o inconsistencias en nuestro código:
 
-<p><code>public class UpdatingVariables {
-    public static void main(String[] args) {<br>
+<pre><code>public class UpdatingVariables {
+    public static void main(String[] args) {
         int salary = 1000;
 
         //Bono 200
@@ -99,7 +97,7 @@ Java nos permite actualizar nuestras variables reutilizando los valores que ten�
         employeedName = "Luis " + employeedName;
         System.out.println(employeedName);
     }
-}</code></p>
+}</code></pre>
 **Demo:**
 ![Actualizacion_Variables](https://res.cloudinary.com/dvhl6xkqf/image/upload/v1626047690/Academia-Java.-CDMX/Java-Basico-SE/ActualizandoVariables_ptht8y.png)
 
@@ -215,11 +213,10 @@ Las funciones nos ayudan a ejecutar código que dependiendo de las opciones que 
 
 Todas nuestras funciones deben tener un nombre. Opcionalmente, pueden recibir argumentos y devolver un resultado. También debemos especificar el tipo de dato de nuestros argumentos y el resultado final de nuestra función.
 
-<p><code>
+<pre><code>
 public int suma(inta, int b) {
   return a + b;
-}
-</code></p>
+}</code></pre>
 
 **Demo:**
 ![Functions](https://res.cloudinary.com/dvhl6xkqf/image/upload/v1626060723/Academia-Java.-CDMX/Java-Basico-SE/functions_aoax0l.png)
@@ -230,11 +227,11 @@ Los bucles (ciclos) nos ayudan a ejecutar una parte de nuestro código una canti
 
 Existen diferentes bucles. Por ejemplo, el bucle do while:
 
-<p>
+<pre>
     <code>do {
   // instrucciones
 } while (condición);</code>
-</p>
+</pre>
 
 **Demo:**
 ![DoWhile](https://res.cloudinary.com/dvhl6xkqf/image/upload/v1626061113/Academia-Java.-CDMX/Java-Basico-SE/DoWhile_eteywl.png)
@@ -242,11 +239,11 @@ Existen diferentes bucles. Por ejemplo, el bucle do while:
 ### Bucle While
 El Bucle While nos ayuda a ejecutar una parte del código mientras una condición se cumpla.
 
-<p>
+<pre>
    <code>while (isTurnOnLight) {
   printSOS();
 }</code> 
-</p>
+</pre>
 
 **Demo:**
 ![While](https://res.cloudinary.com/dvhl6xkqf/image/upload/v1626061389/Academia-Java.-CDMX/Java-Basico-SE/While_smqtj4.png)
@@ -255,13 +252,13 @@ El Bucle While nos ayuda a ejecutar una parte del código mientras una condició
 
 El Ciclo For también nos ayuda a ejecutar una parte de nuestro código las veces que sean necesarias para que se cumpla una condición. De hecho, el ciclo FOR nos da muchas ayudas para lograr este resultado de la forma más fácil posible:
 
-<p>
+<pre>
     <code>// En este ejemplo el mensaje de printSOS se<br>
 // ejecutará 10 veces:<br>
 for (int i = 1; i <= 10; i++) {<br>
   printSOS();<br>
 }</code>
-</p>
+</pre>
 
 **Demo:**
 ![FOR](https://res.cloudinary.com/dvhl6xkqf/image/upload/v1626061975/Academia-Java.-CDMX/Java-Basico-SE/For_kp2kfk.png)
